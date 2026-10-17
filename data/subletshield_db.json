@@ -1,0 +1,222 @@
+{
+  "landlords": [
+    {
+      "id": "landlord_rajesh_blr",
+      "phone": "+91 98765 43210",
+      "fullName": "xyz",
+      "aadhaarNumber": "XXXX-XXXX-7890",
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": true,
+      "isVoiceVerified": true,
+      "isFullyVerified": true,
+      "enrolledSpeakerId": "landlord_landlord_rajesh_blr",
+      "propertyCoordinates": {
+        "latitude": 12.9352,
+        "longitude": 77.6245,
+        "address": "80 Feet Rd, Koramangala 4th Block, Bengaluru"
+      },
+      "deviceGpsCoordinates": {
+        "latitude": 12.9351,
+        "longitude": 77.6244
+      },
+      "gpsDistanceMeters": 16,
+      "createdAt": "2026-10-12T01:24:02.097Z"
+    },
+    {
+      "id": "landlord_7019282734",
+      "phone": "+91 7019282734",
+      "fullName": "Saahil Vinay",
+      "aadhaarNumber": "XXXX-XXXX-0123",
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": false,
+      "isVoiceVerified": false,
+      "isFullyVerified": false,
+      "createdAt": "2026-10-17T01:35:52.764Z"
+    },
+    {
+      "id": "landlord_8697552098",
+      "phone": "+91 8697552098",
+      "fullName": "xyz",
+      "aadhaarNumber": "XXXX-XXXX-4212",
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": false,
+      "isVoiceVerified": false,
+      "isFullyVerified": false,
+      "createdAt": "2026-10-17T01:40:18.739Z"
+    },
+    {
+      "id": "landlord_8997800976",
+      "phone": "+91 8997800976",
+      "fullName": "kushal",
+      "aadhaarNumber": "XXXX-XXXX-0123",
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": false,
+      "isVoiceVerified": false,
+      "isFullyVerified": false,
+      "createdAt": "2026-10-17T02:04:50.174Z"
+    },
+    {
+      "id": "landlord_7980996785",
+      "phone": "+91 7980996785",
+      "fullName": "test",
+      "aadhaarNumber": "XXXX-XXXX-0123",
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": true,
+      "isVoiceVerified": true,
+      "isFullyVerified": true,
+      "createdAt": "2026-10-17T02:06:55.683Z",
+      "enrolledSpeakerId": "landlord_landlord_7980996785",
+      "propertyCoordinates": {
+        "latitude": 12.936934243171024,
+        "longitude": 77.56124286477099,
+        "address": "Banashankari 1st Stage, Ashoka Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560050, India"
+      },
+      "deviceGpsCoordinates": {
+        "latitude": 12.937000653580435,
+        "longitude": 77.56203042173287
+      },
+      "gpsDistanceMeters": 86
+    },
+    {
+      "id": "landlord_rrtiam07_1661",
+      "email": "rrtiam07@gmail.com",
+      "phone": "",
+      "fullName": "Rajni Raman Tiwari",
+      "aadhaarNumber": "XXXX-XXXX-7777",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": false,
+      "isVoiceVerified": false,
+      "isFullyVerified": false,
+      "createdAt": "2026-10-17T02:29:21.661Z"
+    },
+    {
+      "id": "landlord_blaugranaforever_1190",
+      "email": "blaugranaforever1234@gmail.com",
+      "phone": "",
+      "fullName": "Kushal",
+      "aadhaarNumber": "",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "isAadhaarVerified": false,
+      "isGpsVerified": false,
+      "isVoiceVerified": false,
+      "isFullyVerified": false,
+      "createdAt": "2026-10-17T02:39:31.190Z"
+    },
+    {
+      "id": "landlord_vinaysaahil6_4677",
+      "email": "vinaysaahil6@gmail.com",
+      "phone": "",
+      "fullName": "Saahil Vinay",
+      "aadhaarNumber": "XXXX-XXXX-3779",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": true,
+      "isVoiceVerified": true,
+      "isFullyVerified": true,
+      "createdAt": "2026-10-17T04:29:14.677Z",
+      "enrolledSpeakerId": "landlord_landlord_vinaysaahil6_4677",
+      "propertyCoordinates": {
+        "latitude": 12.941559,
+        "longitude": 77.5659889,
+        "address": "BMS College of Engineering"
+      },
+      "deviceGpsCoordinates": {
+        "latitude": 12.941486775296264,
+        "longitude": 77.56588208584017
+      },
+      "gpsDistanceMeters": 14
+    },
+    {
+      "id": "landlord_basisthakushal_3553",
+      "email": "basisthakushal@gmail.com",
+      "phone": "",
+      "fullName": "Kushal Basistha",
+      "aadhaarNumber": "",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "isAadhaarVerified": false,
+      "isGpsVerified": false,
+      "isVoiceVerified": false,
+      "isFullyVerified": false,
+      "createdAt": "2026-10-17T05:53:03.553Z"
+    },
+    {
+      "id": "landlord_462163",
+      "email": "landlord@rentrakshak.org",
+      "phone": "",
+      "fullName": "Verified Landlord",
+      "aadhaarNumber": "XXXX-XXXX-0124",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "isAadhaarVerified": true,
+      "isGpsVerified": false,
+      "isVoiceVerified": false,
+      "isFullyVerified": false,
+      "createdAt": "2026-10-17T06:11:02.163Z"
+    }
+  ],
+  "properties": [],
+  "otpStore": {
+    "+91 98765 43210": {
+      "otp": "7886",
+      "expiresAt": 1792203368477
+    },
+    "+91 7019282734": {
+      "otp": "2096",
+      "expiresAt": 1792201519273
+    },
+    "+91 8697552098": {
+      "otp": "7001",
+      "expiresAt": 1792201812956
+    },
+    "9876543210": {
+      "otp": "5072",
+      "expiresAt": 1792202847547
+    },
+    "+91 8997800976": {
+      "otp": "2009",
+      "expiresAt": 1792203285264
+    },
+    "+91 7980996785": {
+      "otp": "3033",
+      "expiresAt": 1792203411127
+    },
+    "rrtiam07@gmail.com": {
+      "otp": "3609",
+      "expiresAt": 1792205522739
+    },
+    "blaugranaforever1234@gmail.com": {
+      "otp": "3688",
+      "expiresAt": 1792205078180
+    },
+    "anotheruser123@gmail.com": {
+      "otp": "8050",
+      "expiresAt": 1792205528433
+    },
+    "testjudge@example.com": {
+      "otp": "860599",
+      "expiresAt": 1792211182671
+    },
+    "vinaysaahil6@gmail.com": {
+      "otp": "595768",
+      "expiresAt": 1792220447850
+    },
+    "gmailbot25@gmail.com": {
+      "otp": "167315",
+      "expiresAt": 1792216648106
+    },
+    "basisthakushal@gmail.com": {
+      "otp": "852937",
+      "expiresAt": 1792216948866
+    }
+  }
+}
